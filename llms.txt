@@ -1,0 +1,68 @@
+# FeuerDex
+
+> FeuerDex ist eine App von Dexware. Feuerlöscher prüfen und dokumentieren: Sichtkontrolle durch den Betreiber, Sachkundigen-Frist nach DIN 14406-4 je Löscher, Fotos und PDF je Standort. Android-App bei Google Play, am iPhone im Browser. Gratis: 2 Feuerlöscher, Standorte unbegrenzt; Pro 9,99 € im Monat oder 79,99 € im Jahr.
+
+Sachliche Kurzinfo für Sprachmodelle und Suchdienste. Maßgeblich sind die Angaben auf https://feuerdex.dexware.app/. Anbieter: Dexware (https://dexware.app/), Kontakt: support@dexware.app.
+
+## Was FeuerDex macht
+
+- Zwölf Punkte am Gerät: Die Checkliste, angelehnt an ASR A2.2 und DIN 14406-4, beginnt bei Zugänglichkeit und Halterung und geht über Plombe, Druckanzeige und Prüfplakette bis zu den Druckprüffristen und der Umgebung. Mängel stufst du ein: beobachten, außer Betrieb nehmen oder aussondern.
+- Stammdaten bis zur LE: Löschmittel, Bauart, Hersteller, Baujahr, Füllmenge und Löschmitteleinheiten je Gerät. Die Sachkundigen-Frist rechnet FeuerDex passend zum Land: in Deutschland und Österreich zwei Jahre, in der Schweiz drei. Ausgesonderte Löscher bleiben im Bestand belegt.
+- Bericht für Versicherung und BG: Ein PDF pro Standort und Zeitraum, mit den Vorschriften des jeweiligen Landes (DE, AT, CH) als Grundlage. Was gespeichert ist, bleibt so; ein begründetes Storno ist die einzige Korrektur.
+
+## Am PC im Dexware-Dashboard
+
+Was du am Löscher prüfst, siehst du im Dexware-Dashboard am Computer — mit demselben Konto, ohne Installation.
+
+- Fällige Prüfungen: Aktive Standorte, offene Mängel und welche Sachkundigen-Prüfung als Nächste fällig ist, auf einer Seite.
+- Prüfbericht-PDF: Je Standort und Zeitraum, mit Checklisten, Löscher-Inventar samt Löschmitteleinheiten, Mängeln im Ampelverfahren und Fotos.
+- Excel rein und raus: Feuerlöscher aus einer Liste einlesen, Prüfbuch mit nächster Sachkundigen-Prüfung und Prüfungen als Excel-Datei.
+- Team per Code: Mitarbeiter mit einem Team-Code dazuholen (Pro), Mitglieder sehen und entfernen.
+
+## Für wen
+
+Für Handwerk, Hausmeisterdienste, Facility Management und Kommunen.
+
+## Preise
+
+- Gratis (für immer): 2 Feuerlöscher, Standorte unbegrenzt; Checkliste, Ampel, GPS, Fotos; PDF-Bericht mit Wasserzeichen; Cloud-Sync auf allen Geräten
+- Pro: 9,99 € im Monat oder 79,99 € im Jahr. Enthält: Unbegrenzt Feuerlöscher; PDF ohne Wasserzeichen; Team mit bis zu 20 Mitarbeitern; Prüf-Erinnerung; Priorisierter Support
+- Stufen nach Teamgröße (ein Abo pro Betrieb, Mitarbeiter treten per Team-Code bei und brauchen kein eigenes Abo):
+  - Pro (bis 20 Mitarbeiter): 9,99 € im Monat · 79,99 € im Jahr
+  - Team (bis 50 Mitarbeiter): 14,99 € im Monat · 119,99 € im Jahr
+  - Team XL (bis 100 Mitarbeiter): 19,99 € im Monat · 159,99 € im Jahr
+  - Unternehmen (über 100 Mitarbeiter): Angebot · auf Rechnung
+- Dexware Suite (Prüf-Paket): alle 9 Prüf-Apps der Suite (GurtDex, ToreDex, GerüstDex, FeuerDex, LeiterDex, RegalDex, PrüfDex, SchutzDex, HebeDex) für 24,99 € im Monat oder 199,99 € im Jahr (entspricht 16,67 € im Monat), ab 3 Prüf-Apps günstiger als einzeln.
+- Preise inkl. MwSt., Abo jederzeit kündbar.
+
+## Kurz beantwortet
+
+- Darf ich meine Feuerlöscher selbst prüfen? Die Sichtkontrolle zwischendurch ja, die ist Sache des Betreibers. Die Prüfung alle zwei Jahre gehört in die Hand eines Sachkundigen nach DIN 14406-4, meist einer Wartungsfirma.
+- Wie oft müssen Feuerlöscher geprüft werden? In Deutschland alle zwei Jahre durch einen Sachkundigen nach DIN 14406-4 (ASR A2.2), dazwischen kontrolliert der Betreiber selbst, bewährt ist vierteljährlich.
+- Reicht die Prüfplakette als Nachweis? Nein, jedenfalls nicht in Deutschland. Die Plakette verrät nur, wann der Sachkundige zuletzt da war und wann er wiederkommt. Was geprüft wurde und dass du zwischendurch kontrolliert hast, zeigt sie nicht.
+- Gibt es FeuerDex auch für den Schreibtisch? Ja, das Dexware-Dashboard bringt Standorte, Löscher, Prüfungen und Berichte auf den Bildschirm im Büro.
+- Was gilt für Feuerlöscher in Österreich? Nach § 13 Abs. 2 AStV eine Überprüfung mindestens jedes zweite Kalenderjahr, längstens alle 27 Monate, durch eine fachkundige, berechtigte Person.
+- Wie viele Feuerlöscher braucht mein Betrieb? Die ASR A2.2 rechnet in Löschmitteleinheiten (LE) nach Fläche und Brandgefährdung, bei normaler Gefährdung zum Beispiel 6 LE bis 50 m² und 12 LE bis 200 m².
+- Alle Antworten: https://feuerdex.dexware.app/#faq
+
+## Seiten
+
+- [Startseite](https://feuerdex.dexware.app/): Funktionen, Preise, häufige Fragen
+- [Preise](https://feuerdex.dexware.app/#preise): Gratis, Pro und Stufen nach Teamgröße
+- [Häufige Fragen](https://feuerdex.dexware.app/#faq)
+- [FeuerDex am iPhone](https://feuerdex.dexware.app/#iphone): im Browser, ohne App Store
+- [Dexware-Dashboard](https://dashboard.dexware.app/app/feuerdex): am PC im Browser, mit demselben Konto
+- [Google Play](https://play.google.com/store/apps/details?id=com.feuerdex.app): Android-App
+- [Dexware](https://dexware.app/): alle Apps von Dexware
+
+## Ratgeber
+
+- [Feuerlöscher-Überprüfung Österreich: Fristen (AStV)](https://feuerdex.dexware.app/ratgeber-feuerloescher-oesterreich.html): Wie oft müssen Feuerlöscher in Österreich überprüft werden? Jedes 2. Kalenderjahr, längstens 27 Monate (§ 13 AStV): wer prüft, was der Aufkleber ersetzt.
+- [Feuerlöscher prüfen: Fristen, Sachkundiger, Dokumentation](https://feuerdex.dexware.app/ratgeber-feuerloescher-pruefung.html): Wie oft müssen Feuerlöscher geprüft werden, wer ist der Sachkundige und ist die Dokumentation Pflicht? Ratgeber zu ASR A2.2, DIN 14406-4 & BetrSichV — mit Löschmitteleinheiten-Erklärung, 12-Punkte-Checkliste, Ampelverfahren und FAQ.
+
+## Rechtliches
+
+- [Impressum](https://feuerdex.dexware.app/impressum.html)
+- [Datenschutz](https://feuerdex.dexware.app/datenschutz.html)
+- [AGB](https://feuerdex.dexware.app/agb.html)
+- [AVV](https://feuerdex.dexware.app/avv.html)
