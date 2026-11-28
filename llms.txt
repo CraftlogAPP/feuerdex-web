@@ -64,7 +64,7 @@ Für Handwerk, Hausmeisterdienste, Facility Management und Kommunen.
 ## Ratgeber
 
 - [Feuerlöscher-Überprüfung Österreich: Fristen (AStV)](https://feuerdex.dexware.app/ratgeber-feuerloescher-oesterreich.html): Wie oft müssen Feuerlöscher in Österreich überprüft werden? Jedes 2. Kalenderjahr, längstens 27 Monate (§ 13 AStV): wer prüft, was der Aufkleber ersetzt.
-- [Feuerlöscher prüfen: Fristen, Sachkundiger, Dokumentation](https://feuerdex.dexware.app/ratgeber-feuerloescher-pruefung.html): Wie oft müssen Feuerlöscher geprüft werden, wer ist der Sachkundige und ist die Dokumentation Pflicht? Ratgeber zu ASR A2.2, DIN 14406-4 & BetrSichV — mit Löschmitteleinheiten-Erklärung, 12-Punkte-Checkliste, Ampelverfahren und FAQ.
+- [Feuerlöscher prüfen: Fristen und Sachkundiger](https://feuerdex.dexware.app/ratgeber-feuerloescher-pruefung.html): Wie oft müssen Feuerlöscher geprüft werden, wer ist Sachkundiger, ist die Doku Pflicht? ASR A2.2 und DIN 14406-4 mit Löschmitteleinheiten und Checkliste.
 
 ## Rechtliches
 
